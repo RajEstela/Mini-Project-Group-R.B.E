@@ -1,7 +1,7 @@
 Id,Name,Class,Style,Difficulty,DamageType,Damage,Sturdiness,Crowd-Control,Mobility,Functionality
 1,Aatrox,Warrior,3,2,P,3,3,2,2,2
 2,Ahri,Mage,10,2,M,3,1,2,3,1
-3,Akali,Assasin,7,2,PM,3,1,1,3,1
+3,Akali,Assassin,7,2,PM,3,1,1,3,1
 4,Alistar,Tank-Support,7,1,M,1,3,3,1,2
 5,Amumu,Tank,9,1,M,2,3,3,1,1
 6,Anivia,Mage,10,3,M,3,1,3,1,2
@@ -20,15 +20,15 @@ Id,Name,Class,Style,Difficulty,DamageType,Damage,Sturdiness,Crowd-Control,Mobili
 19,Corki,Marksman,5,2,PM,3,1,1,2,1
 20,Darius,Tank-Warrior,6,2,P,3,2,2,1,1
 21,Diana,Mage-Warrior,7,1,M,3,2,2,2,1
-22,Dr.Mundo,Tank-Warrior,6,1,PM,2,3,1,1,1
+22,Dr. Mundo,Tank-Warrior,6,1,PM,2,3,1,1,1
 23,Draven,Marksman,2,3,P,3,1,1,2,1
 24,Ekko,Mage-Warrior,8,3,M,3,2,2,3,
-25,Elise,Mage-Assasin,7,3,M,2,2,2,2,1
-26,Evelynn,Assasin,8,2,M,2,2,1,2,2
+25,Elise,Mage-Assassin,7,3,M,2,2,2,2,1
+26,Evelynn,Assassin,8,2,M,2,2,1,2,2
 27,Ezreal,Mage-Marksman,6,2,PM,3,1,1,2,1
 28,Fiddlesticks,Mage,10,2,M,3,1,3,1,1
 29,Fiora,Warrior,2,3,P,3,2,2,2,2
-30,Fizz,Mage-Assasin,9,3,M,3,1,2,3,1
+30,Fizz,Mage-Assassin,9,3,M,3,1,2,3,1
 31,Galio,Mage,10,2,M,2,3,3,2,1
 32,Gangplank,Warrior,8,3,P,3,2,2,2,2
 33,Garen,Tank-Warrior,8,1,P,2,3,1,1,1
@@ -46,21 +46,21 @@ Id,Name,Class,Style,Difficulty,DamageType,Damage,Sturdiness,Crowd-Control,Mobili
 45,Jayce,Warrior,5,2,P,3,1,1,2,2
 46,Jhin,Marksman,3,2,P,3,1,2,1,1
 47,Jinx,Marksman,2,2,P,3,1,2,1,1
-48,Kai Sa,Marksman,2,2,PM,3,1,0,3,1
+48,Kai'Sa,Marksman,2,2,PM,3,1,0,3,1
 49,Kalista,Marksman,2,3,P,3,1,1,3,2
 50,Karma,Mage-Support,10,1,M,2,1,2,1,2
 51,Karthus,Mage,10,2,M,3,1,1,1,2
-52,Kassadin,Mage-Assasin,9,2,M,3,2,1,3,1
-53,Katarina,Mage-Assasin,10,3,M,3,1,1,3,1
+52,Kassadin,Mage-Assassin,9,2,M,3,2,1,3,1
+53,Katarina,Mage-Assassin,10,3,M,3,1,1,3,1
 54,Kayle,Mage,3,2,PM,3,1,1,1,3
-55,Kayn,Assasin,3,2,P,3,1,1,3,1
+55,Kayn,Assassin,3,2,P,3,1,1,3,1
 56,Kennen,Mage,7,2,M,3,1,3,1,1
-57,Kha Zix,Assasin,6,2,P,3,1,1,2,1
-58,Kindred,Assasin,3,3,P,3,1,2,3,2
+57,Kha'Zix,Assassin,6,2,P,3,1,1,2,1
+58,Kindred,Assassin,3,3,P,3,1,2,3,2
 59,Kled,Warrior,3,2,P,3,2,1,3,1
-60,Kog Maw,Marksman,2,2,PM,3,1,1,1,1
-61,Leblanc,Mage-Assasin,10,3,M,3,1,2,3,1
-62,Lee Sin,Warrior-Assasin,6,3,P,3,2,2,3,1
+60,Kog'Maw,Marksman,2,2,PM,3,1,1,1,1
+61,LeBlanc,Mage-Assassin,10,3,M,3,1,2,3,1
+62,Lee Sin,Warrior-Assassin,6,3,P,3,2,2,3,1
 63,Leona,Tank,9,1,M,1,3,3,1,1
 64,Lissandra,Mage,10,2,M,3,1,3,2,1
 65,Lucian,Marksman,4,2,P,3,1,1,3,1
@@ -69,7 +69,7 @@ Id,Name,Class,Style,Difficulty,DamageType,Damage,Sturdiness,Crowd-Control,Mobili
 68,Malphite,Tank,8,1,M,1,3,3,1,1
 69,Malzahar,Mage,10,1,M,3,1,3,1,2
 70,Maokai,Tank,8,1,M,1,3,3,1,2
-71,Master Yi,Assasin,2,1,P,3,1,1,2,1
+71,Master Yi,Assassin,2,1,P,3,1,1,2,1
 72,Miss Fortune,Marksman,4,1,P,3,1,1,1,1
 73,Mordekaiser,Warrior,8,2,M,3,2,1,1,2
 74,Morgana,Mage-Support,10,1,M,2,1,3,1,2
@@ -77,13 +77,13 @@ Id,Name,Class,Style,Difficulty,DamageType,Damage,Sturdiness,Crowd-Control,Mobili
 76,Nasus,Warrior,3,1,P,2,3,2,1,1
 77,Nautilus,Tank-Support,8,2,M,1,3,3,1,1
 78,Neeko,Mage,8,1,M,3,1,3,1,1
-79,Nidalee,Assasin,8,3,M,3,1,1,3,2
-80,Nocturne,Assasin,4,1,P,3,1,2,2,2
+79,Nidalee,Assassin,8,3,M,3,1,1,3,2
+80,Nocturne,Assassin,4,1,P,3,1,2,2,2
 81,Nunu,Tank,8,1,M,1,3,2,1,2
 82,Olaf,Warrior,4,2,P,2,2,2,1,1
 83,Orianna,Mage,9,2,M,2,1,2,1,2
 84,Ornn,Warrior,7,2,PM,1,3,3,1,2
-85,Pantheon,Warrior-Assasin,8,1,P,3,2,2,2,1
+85,Pantheon,Warrior-Assassin,8,1,P,3,2,2,2,1
 86,Poppy,Tank-Warrior,8,2,P,2,3,3,2,1
 87,Pyke,Support,7,2,P,2,1,3,3,1
 88,Qiyana,Warrior,7,2,P,3,1,2,2,1
@@ -92,12 +92,12 @@ Id,Name,Class,Style,Difficulty,DamageType,Damage,Sturdiness,Crowd-Control,Mobili
 91,Rammus,Tank,7,1,PM,2,3,3,2,1
 92,Rek Sai,Warrior,4,2,P,2,2,2,2,2
 93,Renekton,Warrior,5,1,P,2,2,2,2,1
-94,Rengar,Assasin,4,2,P,3,1,2,2,1
+94,Rengar,Assassin,4,2,P,3,1,2,2,1
 95,Riven,Warrior,8,2,P,3,2,2,3,1
 96,Rumble,Mage-Warrior,9,3,M,3,2,2,1,1
 97,Ryze,Mage,10,2,M,3,1,2,2,2
 98,Sejuani,Tank,8,2,M,2,2,3,2,1
-99,Shaco,Assasin,5,2,P,3,1,2,2,2
+99,Shaco,Assassin,5,2,P,3,1,2,2,2
 100,Shen,Tank,5,2,PM,2,3,2,2,3
 101,Shyvana,Warrior,6,1,P,2,2,1,2,1
 102,Singed,Tank-Warrior,10,2,M,2,3,2,2,1
@@ -111,14 +111,14 @@ Id,Name,Class,Style,Difficulty,DamageType,Damage,Sturdiness,Crowd-Control,Mobili
 110,Syndra,Mage,10,2,M,3,1,2,1,1
 111,Tahm Kench,Tank-Support,7,1,M,2,3,2,1,3
 112,Taliyah,Mage,10,2,M,3,1,2,1,3
-113,Talon,Assasin,7,2,P,3,1,1,2,1
+113,Talon,Assassin,7,2,P,3,1,1,2,1
 114,Taric,Tank-Support,8,2,M,1,2,2,1,3
-115,Teemo,Assasin,3,1,M,3,1,2,1,2
+115,Teemo,Assassin,3,1,M,3,1,2,1,2
 116,Thresh,Tank-Support,8,3,M,1,2,3,1,3
 117,Tristana,Marksman,3,1,P,3,1,2,2,1
 118,Trundle,Warrior,4,1,P,2,3,1,1,2
 119,Tryndamere,Warrior,2,1,P,3,2,1,2,1
-120,Twisted Fate,Mage-Assasin,7,2,M,3,1,2,2,2
+120,Twisted Fate,Mage-Assassin,7,2,M,3,1,2,2,2
 121,Twitch,Marksman,1,2,P,3,1,1,2,1
 122,Udyr,Warrior,4,2,PM,2,3,2,2,1
 123,Urgot,Warrior,6,2,P,2,2,2,1,1
@@ -128,7 +128,7 @@ Id,Name,Class,Style,Difficulty,DamageType,Damage,Sturdiness,Crowd-Control,Mobili
 127,Vel Koz,Mage,10,2,M,3,1,2,1,1
 128,Vi,Warrior,6,1,P,2,2,3,2,1
 129,Viktor,Mage,9,3,M,3,1,2,1,1
-130,Vladimir,Mage-Warrior,10,2,M,3,2,1,1,1	
+130,Vladimir,Mage-Warrior,10,2,M,3,2,1,1,1
 131,Volibear,Tank-Warrior,4,1,P,2,3,2,2,1
 132,Warwick,Warrior,4,1,P,2,2,2,1,1
 133,Wukong,Warrior,6,1,P,2,2,2,2,1
@@ -139,8 +139,30 @@ Id,Name,Class,Style,Difficulty,DamageType,Damage,Sturdiness,Crowd-Control,Mobili
 138,Yorick,Warrior,6,2,PM,2,2,2,1,2
 139,Yuumi,Support,10,1,M,1,1,1,3,3
 140,Zac,Tank-Warrior,10,1,M,2,3,3,2,1
-141,Zed,Assasin,6,3,P,3,1,1,3,1
+141,Zed,Assassin,6,3,P,3,1,1,3,1
 142,Ziggs,Mage,9,2,M,3,1,2,2,1
 143,Zilean,Mage-Support,10,2,M,2,1,2,2,3
 144,Zoe,Mage,10,3,M,3,1,2,2,1
 145,Zyra,Mage-Support,10,2,M,3,1,3,1,1
+146,Senna,Marksman-Support,2,2,P,2,1,2,1,3
+147,Aphelios,Marksman,5,3,P,3,1,2,1,2
+148,Sett,Tank-Warrior,3,2,P,3,3,3,2,3
+149,Lillia,Mage,10,1,M,3,2,2,2,2
+150,Yone,Warrior,3,2,P,3,2,2,3,2
+151,Samira,Marksman,3,3,P,3,1,1,3,1
+152,Seraphine,Mage-Support,10,1,M,2,1,3,1,3
+153,Rell,Tank-Support,8,1,PM,1,3,3,2,3
+154,Viego,Warrior,3,2,P,3,2,1,3,1
+155,Gwen,Warrior,5,2,M,3,2,1,3,1
+156,Akshan,Marksman,3,2,P,3,1,1,3,1
+157,Vex,Mage,10,2,M,3,1,2,1,2
+158,Zeri,Marksman,8,3,P,3,1,1,3,1
+159,Renata Glasc,Support,10,2,M,1,1,3,1,3
+160,Bel'Veth,Warrior,3,2,P,3,2,2,3,2
+161,Nilah,Marksman-Warrior,5,3,P,3,1,2,3,2
+162,K'Sante,Tank-Warrior,4,2,P,3,3,3,3,3
+163,Milio,Support,8,1,M,1,1,3,1,3
+164,Naafiri,Assassin,4,1,P,3,2,1,2,1
+165,Briar,Assassin-Warrior,3,1,P,3,2,2,3,1
+166,Hwei,Mage,10,3,M,3,1,3,1,3
+167,Smolder,Marksman,3,2,P,3,1,1,2,2

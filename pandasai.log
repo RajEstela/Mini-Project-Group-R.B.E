@@ -1,0 +1,8 @@
+2024-04-20 16:51:55 [INFO] Question: Which 5 champions are seen the most?
+2024-04-20 16:51:55 [INFO] Running PandasAI with bamboo_llm LLM...
+2024-04-20 16:51:55 [INFO] Prompt ID: a99f737e-6221-43d9-96db-7b08951fca1c
+2024-04-20 16:51:55 [INFO] Executing Pipeline: GenerateChatPipeline
+2024-04-20 16:51:56 [INFO] Executing Step 0: ValidatePipelineInput
+2024-04-20 16:51:56 [INFO] Executing Step 1: CacheLookup
+2024-04-20 16:51:56 [INFO] Executing Step 2: PromptGeneration
+2024-04-20 16:51:56 [ERROR] Pipeline failed on step 2: 'Index' object has no attribute '_format_native_types'
