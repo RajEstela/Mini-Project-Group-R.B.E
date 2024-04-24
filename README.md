@@ -74,8 +74,8 @@ Additionally we also require the Champion information data from here (https://ww
     ├── 1-problem-definition.ipynb
     ├── 2-data-preparation-and-cleaning.ipynb
     ├── 3-exploratory-data-analysis.ipynb
-    ├── Data Science Mini Project_v2.pptx
-    ├── Mini_Proj_R1.0_v2.ipynb
+    ├── 4-exploring-pandasai.ipynb
+    ├── 5-SC1015 - Data Science Mini Project.pptx
     └── README.md
  
 ## Results & Evaluation
